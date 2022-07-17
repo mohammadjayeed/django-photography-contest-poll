@@ -3,3 +3,6 @@
 
 - Anonymous users cannot vote. Users need to register strictly with their gmail account and verify their email OTP ,only after that they can vote.
 - IP address will be tracked and geo location will be saved.
+
+### Data Model (draft, subject to change)
+<img src="Untitled.jpg" width="800">
